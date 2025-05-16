@@ -13,4 +13,7 @@ Projekt sam zakłada że:
  - Wykrywanie poprawności działania wysstkich komponentów
  - Wykrywanie z czasem zużycia poszczególnych komponentów
 
+
+
+
    * Możliwe poźniejsze rozszerzenie do wycinarki laserowej 
