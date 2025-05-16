@@ -8,4 +8,7 @@ Projekt sam zakłada że:
  - Drukarka będzie zabudowana z możliwością regulacji temepratury wewnątrz komory
  - Wydajny system filtracji powietrza w komorze
  - Kamera w środku zapewniająca wgląd wewnąterz drukarki (możliwość użycia kamery do analizy obrazu i wykrywania błedu)
- - Stół magnetyczny zapewniajace łatwe ściąganie wydruków 
+ - Stół magnetyczny zapewniajace łatwe ściąganie wydruków
+ - Wykrywanie zaplątania filamentu
+ - Wykrywanie poprawności działania wysstkich komponentów
+ - Wykrywanie z czasem zużycia poszczególnych komponentów 
