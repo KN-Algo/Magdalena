@@ -1,6 +1,6 @@
 # Magdalena
 
-Projekt drukarki 3d której mechanika będzie brana z modułu uniwersalnego z szachów i pod nią będzie porjektowana. Czyli całą mechanikę dotyczącej corex xy już się znajduje 
+Projekt drukarki 3d w technologi FMD której mechanika będzie brana z modułu uniwersalnego z szachów i pod nią będzie porjektowana. Czyli całą mechanikę dotyczącej corex xy już się znajduje 
 Projekt sam zakłada że:
  - Możliwość wielonarzędziowych głowic (albo samemu stworzenie systemu wymiany narzędzi) albo użycie systemu Bondtech
  - Corex XY ale jest to narzucone ze względu na użycie ogólnej ramy która ma możliwość wymiany
@@ -11,4 +11,6 @@ Projekt sam zakłada że:
  - Stół magnetyczny zapewniajace łatwe ściąganie wydruków
  - Wykrywanie zaplątania filamentu
  - Wykrywanie poprawności działania wysstkich komponentów
- - Wykrywanie z czasem zużycia poszczególnych komponentów 
+ - Wykrywanie z czasem zużycia poszczególnych komponentów
+
+   * Możliwe poźniejsze rozszerzenie do wycinarki laserowej 
