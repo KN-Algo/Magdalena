@@ -1,5 +1,7 @@
 # Magdalena
 
+Modularna Automatyczna Głowicowa Drukarka Adaptacyjna z Logiką Ekspandowalną i Napędem Inercyjno-Adaptacyjnym
+
 Projekt drukarki 3d w technologi FMD której mechanika będzie brana z modułu uniwersalnego z szachów i pod nią będzie porjektowana. Czyli całą mechanikę dotyczącej corex xy już się znajduje 
 Projekt sam zakłada że:
  - Możliwość wielonarzędziowych głowic (albo samemu stworzenie systemu wymiany narzędzi) albo użycie systemu Bondtech
